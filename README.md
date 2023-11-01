@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
-<h3 align="center">Taking everything with fun and passion, a</h3>
+<h3 align="center">Taking everything with fun and passion, grinding majorly in AI. </h3>
 
 - 📫 How to reach me **sskingh457@gmail.com**
 
